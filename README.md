@@ -1,6 +1,6 @@
 # CreditCardValidator
 Credit Card Validator followed by Luhn's Algorithm using Spring  Boot Project.
-![image](https://github.com/er-arunkumarselvam/Credit-Card-Validator/assets/113919924/27e46ca0-3c85-4639-8796-807b9042b056)
+![image](https://github.com/er-arunkumarselvam/CreditCardValidator/assets/113919924/aacf68fd-abc5-4c73-b536-c98701ffd3d0)
 
 
 The credit card validator implemented in Spring Boot is a component designed to validate credit card numbers using the Luhn algorithm. This algorithm is a widely used method to verify the integrity of credit card numbers by calculating a checksum digit.
@@ -26,10 +26,8 @@ Ex: 4929436519228080 - Visa
     
 # Output
 Card Valid Result
-![image](https://github.com/er-arunkumarselvam/Credit-Card-Validator/assets/113919924/d38a5b05-15be-406a-8ee0-ed944ce38267)
+![image](https://github.com/er-arunkumarselvam/CreditCardValidator/assets/113919924/2e36fc48-e558-4fc0-8755-b41f33122a61)
 Card Invalid Result
-![image](https://github.com/er-arunkumarselvam/Credit-Card-Validator/assets/113919924/40f41e60-ee9b-4a3e-8fe5-710a9e4376c3)
-
-
+![image](https://github.com/er-arunkumarselvam/CreditCardValidator/assets/113919924/d84f244f-cfb4-4ecd-8c70-de3cbabec383)
 # DataBase Image
-![image](https://github.com/er-arunkumarselvam/Credit-Card-Validator/assets/113919924/4fbc0671-db13-46f1-a37f-f943fa6e90a0)
+![image](https://github.com/er-arunkumarselvam/CreditCardValidator/assets/113919924/e7031d87-3cd5-4541-b663-66875ea3363f)
