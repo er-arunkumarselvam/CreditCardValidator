@@ -6,22 +6,22 @@ Credit Card Validator followed by Luhn's Algorithm using Spring  Boot Project.
 The credit card validator implemented in Spring Boot is a component designed to validate credit card numbers using the Luhn algorithm. This algorithm is a widely used method to verify the integrity of credit card numbers by calculating a checksum digit.
 
 # Front-End
-  -HTML
-  -Tailwind CSS (Framework)
-  -JavaScript
+  -HTML, 
+   Tailwind CSS (Framework), 
+   JavaScript
   
 # Back-End
-  -Java
-  -SpringBoot (Framework) - Maven Java Project(MVC)
+  -Java,
+   SpringBoot (Framework) - Maven Java Project(MVC)
 
 # DataBase
   -H2 DataBase
 
 # Service Port: 8181
 
-Ex: 4929436519228080 - Visa
-    5379032000462841 - Master
-    6521636716559057 - Rupay
+Ex: 4929436519228080 - Visa,
+    5379032000462841 - Master,
+    6521636716559057 - Rupay,
     3001185585367032 - Diners
     
 # Output
